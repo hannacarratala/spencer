@@ -1,0 +1,134 @@
+{"_e":"root:init","_t":1779566925832,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779566925833,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779566925834,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779566925970,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779566926176,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779566926439,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1779567063474,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779567063474,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779567063475,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779567084557,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779567084760,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779567085941,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:client_log","_t":1779567289591,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThe project you requested requires a newer version of Expo Go.\n\nHow to fix this error:\n\nDownload the latest version of Expo Go from the App Store."]}
+{"_e":"metro:client_log","_t":1779571040848,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThis project requires a newer version of Expo Go.\n\nHow to fix this error:\nDownload the latest version of Expo Go from the Play Store."]}
+{"_e":"metro:bundling:started","_t":1779571361810,"id":"4","platform":"android","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1779571361810,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779571361815,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779571362579,"id":"4","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1779571362682,"id":"4","progress":0.03515625,"total":16,"current":3}
+{"_e":"metro:bundling:progress","_t":1779571362803,"id":"4","progress":0.03515625,"total":44,"current":8}
+{"_e":"metro:bundling:progress","_t":1779571363218,"id":"4","progress":0.04183884297520662,"total":44,"current":9}
+{"_e":"metro:bundling:progress","_t":1779571363320,"id":"4","progress":0.04183884297520662,"total":137,"current":10}
+{"_e":"metro:bundling:progress","_t":1779571363420,"id":"4","progress":0.04183884297520662,"total":142,"current":13}
+{"_e":"metro:bundling:progress","_t":1779571363522,"id":"4","progress":0.04183884297520662,"total":146,"current":21}
+{"_e":"metro:bundling:progress","_t":1779571363636,"id":"4","progress":0.04183884297520662,"total":149,"current":25}
+{"_e":"metro:bundling:progress","_t":1779571363736,"id":"4","progress":0.0625,"total":152,"current":38}
+{"_e":"metro:bundling:progress","_t":1779571363838,"id":"4","progress":0.06925207756232686,"total":171,"current":45}
+{"_e":"metro:bundling:progress","_t":1779571363950,"id":"4","progress":0.08163265306122448,"total":175,"current":50}
+{"_e":"metro:bundling:progress","_t":1779571364050,"id":"4","progress":0.0923353987973505,"total":181,"current":55}
+{"_e":"metro:bundling:progress","_t":1779571364150,"id":"4","progress":0.1054575406525667,"total":194,"current":63}
+{"_e":"metro:bundling:progress","_t":1779571364263,"id":"4","progress":0.1133557233403197,"total":199,"current":67}
+{"_e":"metro:bundling:progress","_t":1779571364379,"id":"4","progress":0.13456730890634072,"total":199,"current":73}
+{"_e":"metro:bundling:progress","_t":1779571364479,"id":"4","progress":0.13536845852616589,"total":212,"current":78}
+{"_e":"metro:bundling:progress","_t":1779571364581,"id":"4","progress":0.1474300770887856,"total":237,"current":91}
+{"_e":"metro:bundling:progress","_t":1779571364684,"id":"4","progress":0.16780374510088547,"total":249,"current":102}
+{"_e":"metro:bundling:progress","_t":1779571364784,"id":"4","progress":0.18975264003673095,"total":264,"current":115}
+{"_e":"metro:bundling:progress","_t":1779571364888,"id":"4","progress":0.2554444864392863,"total":277,"current":140}
+{"_e":"metro:bundling:progress","_t":1779571364991,"id":"4","progress":0.2554444864392863,"total":307,"current":148}
+{"_e":"metro:bundling:progress","_t":1779571365091,"id":"4","progress":0.25617260717377394,"total":326,"current":165}
+{"_e":"metro:bundling:progress","_t":1779571365191,"id":"4","progress":0.2889839286310936,"total":346,"current":186}
+{"_e":"metro:bundling:progress","_t":1779571365291,"id":"4","progress":0.3319802641170648,"total":361,"current":208}
+{"_e":"metro:bundling:progress","_t":1779571365391,"id":"4","progress":0.3526344658044818,"total":389,"current":231}
+{"_e":"metro:bundling:progress","_t":1779571365839,"id":"4","progress":0.35633590170762186,"total":392,"current":234}
+{"_e":"metro:bundling:progress","_t":1779571365844,"id":"4","progress":0.3593880154102458,"total":392,"current":235}
+{"_e":"metro:bundling:progress","_t":1779571365944,"id":"4","progress":0.37138269896193765,"total":425,"current":259}
+{"_e":"metro:bundling:progress","_t":1779571366047,"id":"4","progress":0.37138269896193765,"total":444,"current":270}
+{"_e":"metro:bundling:progress","_t":1779571366147,"id":"4","progress":0.3830958448753462,"total":475,"current":294}
+{"_e":"metro:bundling:progress","_t":1779571366247,"id":"4","progress":0.38490628904623075,"total":490,"current":304}
+{"_e":"metro:bundling:progress","_t":1779571366347,"id":"4","progress":0.38490628904623075,"total":515,"current":312}
+{"_e":"metro:bundling:progress","_t":1779571366447,"id":"4","progress":0.38490628904623075,"total":523,"current":322}
+{"_e":"metro:bundling:progress","_t":1779571366547,"id":"4","progress":0.38533641865432533,"total":530,"current":329}
+{"_e":"metro:bundling:progress","_t":1779571366648,"id":"4","progress":0.3980160376789698,"total":531,"current":335}
+{"_e":"metro:bundling:progress","_t":1779571366749,"id":"4","progress":0.416309607482699,"total":544,"current":351}
+{"_e":"metro:bundling:progress","_t":1779571366853,"id":"4","progress":0.45725660120135303,"total":559,"current":378}
+{"_e":"metro:bundling:progress","_t":1779571366957,"id":"4","progress":0.4800337466382806,"total":573,"current":397}
+{"_e":"metro:bundling:progress","_t":1779571367068,"id":"4","progress":0.5098504485941446,"total":577,"current":412}
+{"_e":"metro:bundling:progress","_t":1779571367168,"id":"4","progress":0.542000594530321,"total":580,"current":427}
+{"_e":"metro:bundling:progress","_t":1779571367269,"id":"4","progress":0.5973455903476013,"total":590,"current":456}
+{"_e":"metro:bundling:progress","_t":1779571367368,"id":"4","progress":0.6394658877762326,"total":599,"current":479}
+{"_e":"metro:bundling:progress","_t":1779571367468,"id":"4","progress":0.6394658877762326,"total":654,"current":510}
+{"_e":"metro:bundling:progress","_t":1779571367568,"id":"4","progress":0.6394658877762326,"total":668,"current":524}
+{"_e":"metro:bundling:progress","_t":1779571367669,"id":"4","progress":0.6394658877762326,"total":673,"current":535}
+{"_e":"metro:bundling:progress","_t":1779571367769,"id":"4","progress":0.644186796033881,"total":689,"current":553}
+{"_e":"metro:bundling:progress","_t":1779571367869,"id":"4","progress":0.6810938307076447,"total":704,"current":581}
+{"_e":"metro:bundling:progress","_t":1779571367969,"id":"4","progress":0.7419860797960984,"total":707,"current":609}
+{"_e":"metro:bundling:progress","_t":1779571368070,"id":"4","progress":0.7419860797960984,"total":723,"current":622}
+{"_e":"metro:bundling:progress","_t":1779571368171,"id":"4","progress":0.7749811268634266,"total":727,"current":640}
+{"_e":"metro:bundling:progress","_t":1779571368274,"id":"4","progress":0.7749811268634266,"total":761,"current":651}
+{"_e":"metro:bundling:progress","_t":1779571368376,"id":"4","progress":0.7749811268634266,"total":820,"current":666}
+{"_e":"metro:bundling:progress","_t":1779571368476,"id":"4","progress":0.7749811268634266,"total":834,"current":681}
+{"_e":"metro:bundling:progress","_t":1779571368576,"id":"4","progress":0.7749811268634266,"total":842,"current":688}
+{"_e":"metro:bundling:progress","_t":1779571368682,"id":"4","progress":0.7749811268634266,"total":848,"current":696}
+{"_e":"metro:bundling:progress","_t":1779571368784,"id":"4","progress":0.7749811268634266,"total":854,"current":716}
+{"_e":"metro:bundling:progress","_t":1779571368885,"id":"4","progress":0.7749811268634266,"total":856,"current":730}
+{"_e":"metro:bundling:progress","_t":1779571368985,"id":"4","progress":0.7749811268634266,"total":864,"current":745}
+{"_e":"metro:bundling:progress","_t":1779571369090,"id":"4","progress":0.7749811268634266,"total":868,"current":758}
+{"_e":"metro:bundling:progress","_t":1779571369187,"id":"4","progress":0.7749811268634266,"total":869,"current":762}
+{"_e":"metro:bundling:progress","_t":1779571369302,"id":"4","progress":0.7960241141318072,"total":872,"current":778}
+{"_e":"metro:bundling:progress","_t":1779571369404,"id":"4","progress":0.8209646923289889,"total":873,"current":791}
+{"_e":"metro:bundling:progress","_t":1779571369506,"id":"4","progress":0.8209646923289889,"total":897,"current":805}
+{"_e":"metro:bundling:progress","_t":1779571369608,"id":"4","progress":0.8209646923289889,"total":899,"current":811}
+{"_e":"metro:bundling:progress","_t":1779571369709,"id":"4","progress":0.8209646923289889,"total":901,"current":812}
+{"_e":"metro:bundling:progress","_t":1779571369814,"id":"4","progress":0.8215385996235129,"total":908,"current":823}
+{"_e":"metro:bundling:progress","_t":1779571369915,"id":"4","progress":0.8307874227358237,"total":915,"current":834}
+{"_e":"metro:bundling:progress","_t":1779571370015,"id":"4","progress":0.8639722662701569,"total":922,"current":857}
+{"_e":"metro:bundling:progress","_t":1779571370116,"id":"4","progress":0.8743464327879912,"total":924,"current":864}
+{"_e":"metro:bundling:progress","_t":1779571370218,"id":"4","progress":0.8948137326515705,"total":925,"current":875}
+{"_e":"metro:bundling:progress","_t":1779571370322,"id":"4","progress":0.9262253377805415,"total":931,"current":896}
+{"_e":"metro:bundling:progress","_t":1779571370423,"id":"4","progress":0.9392496604798553,"total":940,"current":911}
+{"_e":"metro:bundling:progress","_t":1779571370523,"id":"4","progress":0.9521153096654345,"total":949,"current":926}
+{"_e":"metro:bundling:progress","_t":1779571370623,"id":"4","progress":0.9521153096654345,"total":958,"current":931}
+{"_e":"metro:bundling:progress","_t":1779571370743,"id":"4","progress":0.9648606418964837,"total":959,"current":942}
+{"_e":"metro:bundling:progress","_t":1779571370846,"id":"4","progress":0.9648606418964837,"total":991,"current":951}
+{"_e":"metro:bundling:progress","_t":1779571370948,"id":"4","progress":0.9648606418964837,"total":998,"current":960}
+{"_e":"metro:bundling:progress","_t":1779571371048,"id":"4","progress":0.9648606418964837,"total":1044,"current":969}
+{"_e":"metro:bundling:progress","_t":1779571371148,"id":"4","progress":0.9648606418964837,"total":1044,"current":982}
+{"_e":"metro:bundling:progress","_t":1779571371253,"id":"4","progress":0.9648606418964837,"total":1046,"current":995}
+{"_e":"metro:bundling:progress","_t":1779571371385,"id":"4","progress":0.9648606418964837,"total":1046,"current":999}
+{"_e":"metro:bundling:progress","_t":1779571371484,"id":"4","progress":0.9648606418964837,"total":1054,"current":1011}
+{"_e":"metro:bundling:progress","_t":1779571371586,"id":"4","progress":0.9648606418964837,"total":1061,"current":1029}
+{"_e":"metro:bundling:progress","_t":1779571371687,"id":"4","progress":0.9701230741728314,"total":1063,"current":1047}
+{"_e":"metro:bundling:progress","_t":1779571371789,"id":"4","progress":0.9869586863481528,"total":1070,"current":1063}
+{"_e":"metro:bundling:progress","_t":1779571371891,"id":"4","progress":0.9869586863481528,"total":1114,"current":1082}
+{"_e":"metro:bundling:progress","_t":1779571371991,"id":"4","progress":0.9869586863481528,"total":1121,"current":1092}
+{"_e":"metro:bundling:progress","_t":1779571372094,"id":"4","progress":0.9869586863481528,"total":1129,"current":1099}
+{"_e":"metro:bundling:progress","_t":1779571372195,"id":"4","progress":0.9869586863481528,"total":1144,"current":1113}
+{"_e":"metro:bundling:progress","_t":1779571372296,"id":"4","progress":0.9869586863481528,"total":1145,"current":1121}
+{"_e":"metro:bundling:progress","_t":1779571372422,"id":"4","progress":0.9869586863481528,"total":1148,"current":1129}
+{"_e":"metro:bundling:progress","_t":1779571372525,"id":"4","progress":0.9965487514951931,"total":1158,"current":1156}
+{"_e":"metro:bundling:progress","_t":1779571372626,"id":"4","progress":0.9982736300154217,"total":1158,"current":1157}
+{"_e":"metro:bundling:progress","_t":1779571373517,"id":"4","progress":0.999,"total":1158,"current":1158}
+{"_e":"metro:bundling:progress","_t":1779571373617,"id":"4","progress":0.999,"total":1167,"current":1161}
+{"_e":"metro:bundling:progress","_t":1779571373728,"id":"4","progress":0.999,"total":1169,"current":1169}
+{"_e":"metro:bundling:done","_t":1779571374197,"id":"4","total":1169,"ms":12387.214584}
+{"_e":"metro:client_log","_t":1779571378584,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1779571463394,"level":"error","data":["[Error: Uncaught (in promise, id: 0): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779571475823,"level":"error","data":["[Error: Uncaught (in promise, id: 1): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779571490266,"level":"error","data":["[Error: Uncaught (in promise, id: 2): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779571517121,"level":"error","data":["[Error: Uncaught (in promise, id: 3): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779572032859,"level":"error","data":["[Error: Uncaught (in promise, id: 4): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:server_log","_t":1779572615881,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","sdk_gphone16k_arm64 - 17 - API 37","60"]}
+{"_e":"metro:client_log","_t":1779572803693,"level":"error","data":["[Error: Uncaught (in promise, id: 5): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779572971632,"level":"error","data":["[Error: Uncaught (in promise, id: 6): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:client_log","_t":1779573132711,"level":"error","data":["[Error: Uncaught (in promise, id: 7): \"AsyncStorageError: Native module is null, cannot access legacy storage\"]"]}
+{"_e":"metro:bundling:failed","_t":1779573315379,"id":null,"message":"Unable to resolve \"@react-native-async-storage/async-storage\" from \"src/utils/storage.ts\"\n> 1 | import AsyncStorage from '@react-native-async-storage/async-storage';\n    |                           ^\n  2 | import { RoundResult, BestScores, GlobalStats } from '../types';\n  3 |\n  4 | const KEYS = {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/utils/storage.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@react-native-async-storage/async-storage\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/screens/HomeScreen.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../utils/storage\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/HomeScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"@react-native-async-storage/async-storage","originModulePath":"src/utils/storage.ts"}
+{"_e":"metro:bundling:failed","_t":1779573315768,"id":null,"message":"Unable to resolve \"@react-native-async-storage/async-storage\" from \"src/utils/storage.ts\"\n> 1 | import AsyncStorage from '@react-native-async-storage/async-storage';\n    |                           ^\n  2 | import { RoundResult, BestScores, GlobalStats } from '../types';\n  3 |\n  4 | const KEYS = {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc/utils/storage.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@react-native-async-storage/async-storage\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/screens/HomeScreen.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../utils/storage\"\u001b[39m\n\n\u001b[90m \u001b[39msrc/navigation/AppNavigator.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../screens/HomeScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/AppNavigator\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"@react-native-async-storage/async-storage","originModulePath":"src/utils/storage.ts"}
+{"_e":"root:init","_t":1779580066460,"format":"v0-jsonl","version":"56.1.11"}
+{"_e":"env:mode","_t":1779580066461,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779580066462,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779580070127,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779580071228,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779580071577,"atlas":false,"workers":6,"host":"::","port":8083}
+{"_e":"metro:client_log","_t":1779580089496,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThe project you requested requires a newer version of Expo Go.\n\nHow to fix this error:\n\nDownload the latest version of Expo Go from the App Store."]}
+{"_e":"metro:client_log","_t":1779580173768,"level":"error","data":["Project is incompatible with this version of Expo Go\n\nThis project requires a newer version of Expo Go.\n\nHow to fix this error:\nDownload the latest version of Expo Go from the Play Store."]}
